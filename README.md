@@ -1,4 +1,7 @@
 # MyTransforMove
+
+![downloads](https://img.shields.io/cocoapods/dt/AFNetworking.svg)
+
 搜索框过度动画
  
 ## 最近做项目遇到个需求
